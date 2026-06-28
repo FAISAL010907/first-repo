@@ -1,2 +1,2 @@
 # first-repo
-this is my first respo
+I am starting my journey and this is my first respo 
