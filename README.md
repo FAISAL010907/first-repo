@@ -1,2 +1,2 @@
-# first-rep0 
+# first-repo
 I am starting my journey and this is my first respo😁.......
